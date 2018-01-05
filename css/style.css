@@ -32,6 +32,17 @@
   display: none;
 }
 
+#description2 {
+  padding-top: 6%;
+  background-color: #f1f1f1;
+  height: auto;
+  font-family: 'Montserrat', sans-serif;
+  border-right-style: solid;
+  border-right-color: #ff2238;
+  border-right-width: 7px;
+  display: none;  
+}
+
 #nevilleo {
   font-weight: bold;
   font-family: 'Montserrat', sans-serif;
@@ -104,28 +115,183 @@
 
 #copyright {
   float: right;
-  margin-top: 60%;
+  margin-top: 65%;
   margin-right: 4%;
 }
+
+#portrow {
+  height: ;
+}
+
+#iconsocial {
+  background-color: #292929;
+  height: 104.2vh;
+  padding-top: 20.9%;
+  padding-left: 2%;
+}
+
+#doubledown {
+
+}
+
+#mddd {
+  margin-bottom: 56px;
+}
+
+.inside {
+  padding: 0px;
+  margin-right: -90px;
+  margin-left: 30px;
+}
+
+.style {
+  position: relative;
+  display: inline;
+  width: ;
+}
+
+.style:hover, .overlay:hover {
+  opacity: 1;
+}
+
+.text {
+  color: #ff2238;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 17px;
+  position: absolute;
+  top: 20%;
+  left: 25%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+
+
+.text2 {
+  color:  #121212;
+  font-size: 15px;
+  position: absolute;
+  top: 32%;
+  left: 35%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+
+.overlay {
+  position: absolute;
+  top: -101px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 220px;
+  width: 430px;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #fff;
+  border-style: solid;
+  border-width: 6px;
+  border-color: #121212;
+}
+
+.port {
+  padding-left: 8%;
+  padding-right: 0%;
+  margin-bottom: 30px;
+  height: auto;
+
+}
+
+.portfolioimg {
+  display: inline;
+  width: 100%;
+  height: auto;;
+  margin-right: 3%;
+  border-right-style: solid;
+  border-right-width: 30px;
+  border-right-color: #fff;
+  border-left-style: solid;
+  border-left-width: 30px;
+  border-left-color: #fff;
+  height: 220px;
+  width: 430px;
+}
+
+
 
 .social{
   background-color: #121212;
   height: 50px;
   width: 50px;
+  border-radius: ;
+  display: inline-block;
+  font-size: 18px;
+  padding-top: 6%;
+  padding-left: 8%;
+  margin-left: 2%;
   border-radius: 50%;
+}
+
+.social-background {
+  background-color: #fff;
+}
+
+.glpyf {
+  background-color:  #121212  
+}
+
+.social2 {
+  background-color:  #121212;
+  height: 50px;
+  width: 50px;
+  border-radius: ;
   display: inline-block;
-  display: inline-block;
+  font-size: 18px;
+  padding-top: 10px;
+  padding-left: 16px;
+  margin-left: 13px;
+  margin-bottom: 10px;
+  border-radius: 50%;  
+}
+
+.social2:hover {
+  
 }
 
 .socialmedia {
-  display: inline-block;
-  margin-top: 40%;
-  width: 100px;
-  height: 100px;
+  margin-top: 60%;
+  width: 300px;
+  height: 300px;
+  float: left;
+  padding-left: 14%;
 }
 
 .fa-twitter {
+  font-size: 18px;
+  color: #fff; 
+}
 
+#fa-twitter {
+  font-size: 18px;
+  color: #121212;  
+}
+
+.fa-google {
+  font-size: 18px;
+  color: #fff;  
+}
+
+#fa-google {
+  font-size: 18px;
+  color: #121212;  
+}
+
+.fa-linkedin {
+  font-size: 18px;
+  color: #fff;
+}
+
+#fa-linkedin {
+  font-size: 18px;
+  color: #121212;  
 }
 
 .glyphicon-tasks {
