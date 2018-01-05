@@ -32,6 +32,14 @@
   display: none;
 }
 
+#devdev {
+  padding-top: 20%;
+  background-color: #292929;
+  height: 100vh;
+  font-family: 'Montserrat', sans-serif;
+  display: none;
+}
+
 #description2 {
   padding-top: 6%;
   background-color: #f1f1f1;
@@ -41,6 +49,19 @@
   border-right-color: #ff2238;
   border-right-width: 7px;
   display: none;  
+}
+
+#description3 {
+  padding-top: 6%;
+  background-image: url("../img/white3.jpg");
+  background-repeat: none;
+  background-size: cover;
+  height: 100vh;
+  font-family: 'Montserrat', sans-serif;
+  border-right-style: solid;
+  border-right-color: #ff2238;
+  border-right-width: 7px;
+  display: none;    
 }
 
 #nevilleo {
@@ -109,6 +130,27 @@
   display: none;
 }
 
+#fullstack2 {
+  background-color: transparent;
+  color:  #121212;
+  border-color:  #121212;
+  border-style: solid;
+  border-radius: 0px;
+  border-width: 4px;
+  font-size: 23px;
+  height: 80px;
+  width: 200px;
+  padding: 15px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  display: none;  
+}
+
+#fullstack2:hover {
+  background-color: #fff;
+}
+
+
 #fullstack:hover {
   background-color: #fff;
 }
@@ -120,14 +162,29 @@
 }
 
 #portrow {
-  height: ;
+  margin-top: 70px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+
+#portrow2 {
+  margin-top: 50px;
 }
 
 #iconsocial {
   background-color: #292929;
-  height: 104.2vh;
+  height: 112.9vh;
   padding-top: 20.9%;
   padding-left: 2%;
+  display: none;
+}
+
+#iconsocial2 {
+  background-color: #fff;
+  height: 100vh;
+  padding-top: 20.9%;
+  padding-left: 2%;
+  display: none;
 }
 
 #doubledown {
@@ -136,6 +193,20 @@
 
 #mddd {
   margin-bottom: 56px;
+}
+
+#socialheight {
+  height: 100px;
+}
+
+.fa-github {
+  font-size: 28px;
+}
+
+.font {
+  font-size: 22px;
+  color:  #121212;
+  font-family: 'Inconsolata', serif;
 }
 
 .inside {
@@ -252,6 +323,10 @@
   border-radius: 50%;  
 }
 
+.social3 {
+
+}
+
 .social2:hover {
   
 }
@@ -259,9 +334,10 @@
 .socialmedia {
   margin-top: 60%;
   width: 300px;
-  height: 300px;
+  height: 68px;
   float: left;
   padding-left: 14%;
+  margin-bottom: 0px;
 }
 
 .fa-twitter {
