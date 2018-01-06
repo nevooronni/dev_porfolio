@@ -274,6 +274,36 @@ a:hover {
   -ms-transform: translate(-50%, -50%);
 }
 
+.text3 {
+  color:  #121212;
+  font-size: 15px;
+  position: absolute;
+  top: 35%;
+  left: 35%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+
+.text4 {
+  color:  #121212;
+  font-size: 15px;
+  position: absolute;
+  top: 47%;
+  left: 35%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+
+.text5 {
+  color: #ff2238;
+  font-size: 15px;
+  position: absolute;
+  top: 59%;
+  left: 35%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+
 .overlay {
   position: absolute;
   top: -101px;
