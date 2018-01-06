@@ -64,6 +64,20 @@
   display: none;    
 }
 
+#description4 {
+  padding-top: 0px;
+  /*background-color: #292929;*/
+  background-image: url("../img/contact.jpeg");
+  background-repeat: none;
+  background-size: cover;
+  height: 100vh;
+  font-family: 'Montserrat', sans-serif;
+  border-right-style: solid;
+  border-right-color: #ff2238;
+  border-right-width: 7px;
+  display: none;   
+}
+
 #nevilleo {
   font-weight: bold;
   font-family: 'Montserrat', sans-serif;
@@ -171,6 +185,13 @@
   margin-top: 50px;
 }
 
+#portrow3 {
+  margin-top: 170px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  background-color: #292929;  
+}
+
 #iconsocial {
   background-color: #292929;
   height: 101.9vh;
@@ -212,8 +233,37 @@
   display: none;
 }
 
+.contactme {
+  width: 240px;
+  background-color: transparent;
+  border-bottom-style: solid;
+  border-bottom-width: 3px;
+  border-radius: 0px;
+  border-bottom-color: #ff2238;
+  color: #fff;
+  font-size: 32px;
+  margin-bottom: 10px;
+  display: none;
+  padding-left: 0px;
+}
+
+.contactme:hover {
+  color: #fff;
+}
+
+#contmargin {
+  margin-bottom: 50px;
+}
+
 a:hover {
   text-decoration: none;
+}
+
+.contactp {
+  color: #fff;
+  font-size: 20px;
+  font-family: 'Inconsolata', serif;
+  display: none;
 }
 
 .languages {
@@ -458,11 +508,27 @@ a:hover {
 
 .white {
   color: #fff;
-  display: none
+  display: none;
 }
 
 .red {
   color: #ff2238;
+}
+
+.red2 {
+  color: #A9A9A9;
+  font-size: 20px;
+  font-family: 'Inconsolata', serif;
+  display: none;
+}
+
+.white2 {
+  color: #A9A9A9;
+  display: none;
+}
+
+.white2:hover {
+  color: #fff;
 }
 
 .downer {
