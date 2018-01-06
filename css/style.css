@@ -41,7 +41,7 @@
 }
 
 #description2 {
-  padding-top: 6%;
+  padding-top: 0px;
   background-color: #f1f1f1;
   height: auto;
   font-family: 'Montserrat', sans-serif;
@@ -173,7 +173,7 @@
 
 #iconsocial {
   background-color: #292929;
-  height: 112.9vh;
+  height: 101.9vh;
   padding-top: 20.9%;
   padding-left: 2%;
   display: none;
@@ -197,6 +197,33 @@
 
 #socialheight {
   height: 100px;
+}
+
+#main {
+  border-radius: 0px;
+  color: #fff;
+  background-color: transparent;
+  border-bottom-style: solid;
+  border-bottom-width: 3px;
+  border-bottom-color: #ff2238;
+  margin-bottom: 10px;
+  width: 150px;
+  font-size: 19px;
+  display: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.languages {
+  color: #fff;
+  margin-left: 0px;
+  display: none;
+}
+
+.languages:hover {
+  color: #ff2238;
 }
 
 .fa-github {
@@ -382,6 +409,12 @@
   font-size: 59px;  
 }
 
+.black2 {
+  border-radius: 0px;
+  display: inline;
+  margin-right: 2%;
+}
+
 .black {
   color: #121212;
   text-decoration: none;
@@ -400,6 +433,10 @@
 
 .red {
   color: #ff2238;
+}
+
+.downer {
+  margin-bottom: 5%;
 }
 
 

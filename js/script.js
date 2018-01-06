@@ -5,6 +5,8 @@ $(document).ready(function() {
 	$("#iconsocial2").slideDown(2800);
 	$(".white, .red").fadeIn(1000);
 	$(".black").fadeIn(2000)
+	$("#main").fadeIn(2000);
+	$(".languages").fadeIn(3000);
 	$("#sidebar").slideDown(500);
 	$("#devdev").slideDown(1100);
 	$("#description3").slideDown(2200);
