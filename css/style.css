@@ -89,7 +89,7 @@
 }
 
 #items1 {
-  padding-left: ;
+  padding-top: 0px;
   padding-right: 3%;
 }
 
@@ -231,6 +231,13 @@
   width: 150px;
   font-size: 19px;
   display: none;
+}
+
+#profpic {
+  margin-left: 25%;
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
 }
 
 .contactme {
