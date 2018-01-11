@@ -12,7 +12,7 @@
   font-weight: bold;
   margin-bottom: 10%;
   height: 60px;
-  width: 60px;
+  width: 100px;
   font-size: 20px;
 }
 
@@ -106,7 +106,7 @@
 #i {
   font-weight: ;
   font-size: 16px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Inconsolata', serif;
 }
 
 #backend {
@@ -116,7 +116,7 @@
 
 #i2 {
   font-size: 16px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Inconsolata', serif;
 }
 
 #devstack {
@@ -208,6 +208,14 @@
   display: none;
 }
 
+#iconsocial6 {
+ background-color: #292929;
+  height: 118.9vh;
+  padding-top: 20.9%;
+  padding-left: 2%;
+  display: none;
+}
+
 #doubledown {
 
 }
@@ -238,6 +246,13 @@
   border-radius: 50%;
   height: 200px;
   width: 200px;
+}
+
+.down {
+  color: #ff2238;
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 20%;
 }
 
 .contactme {
@@ -387,8 +402,6 @@ a:hover {
 
 .portfolioimg {
   display: inline;
-  width: 100%;
-  height: auto;;
   margin-right: 3%;
   border-right-style: solid;
   border-right-width: 30px;
@@ -398,6 +411,87 @@ a:hover {
   border-left-color: #fff;
   height: 220px;
   width: 430px;
+}
+
+.portfolioimg2 {
+  display: inline;
+  margin-top: 0%;
+  margin-left: 10%;
+  margin-right: 0%;
+  border-style: solid;
+  border-width: 11px;
+  border-color:  #ff2238;
+  height: 320px;
+  width: 630px;
+}
+
+#projectheading {
+  margin-top: 3%;
+  margin-left: 10%; 
+  margin-bottom: 0%;
+  color: #292929;
+  font-size: ; 
+}
+
+.projectheading2 {
+  margin-top: 3%;
+  margin-left: 10%; 
+  margin-bottom: 0%;
+  color: #292929;
+  font-size: ; 
+}
+
+#details {
+  margin-top: 0%;
+  margin-left: 10%;
+  width: 150px;
+  height: ;
+  color: transparent;
+  background-color: #ff2238;
+  border-style: none;
+  border-radius: 0px;
+}
+
+.details2 {
+  margin-top: 0%;
+  margin-left: 10%;
+  margin-bottom: 0%;
+  width: 100px;
+  height: ;
+  color: transparent;
+  background-color: #ff2238;
+  border-style: none;
+  border-radius: 0px;
+}
+
+.details3 {
+  margin-top: 0%;
+  margin-left: 10%;
+  width: 150px;
+  height: ;
+  color: #ff2238;
+  background-color: #fff;
+  border-style: solid;
+  border-width: 4px; 
+  border-color: #ff2238;
+  border-radius: 0px;  
+}
+
+.details3:hover {
+  background-color: #ff2238;
+  color: #fff;  
+}
+
+.projectdes {
+  margin-top: 2%;
+  margin-left: 10%;
+  margin-bottom: 3%;
+  color: #999;  
+}
+
+.glyphicon-cutlery {
+  font-size: 34px;
+  color: #121212;
 }
 
 
@@ -532,6 +626,7 @@ a:hover {
 .white2 {
   color: #A9A9A9;
   display: none;
+   font-family: 'Inconsolata', serif;
 }
 
 .white2:hover {

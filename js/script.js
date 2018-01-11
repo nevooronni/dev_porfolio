@@ -3,6 +3,7 @@
 $(document).ready(function() {
 	$("#iconsocial").slideDown(2200);
 	$("#iconsocial2").slideDown(2800);
+	$("#iconsocial6").slideDown(2200);
 	$(".white, .red").fadeIn(1000);
 	$(".black").fadeIn(2000)
 	$("#main").fadeIn(2000);
