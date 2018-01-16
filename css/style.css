@@ -194,7 +194,7 @@
 
 #iconsocial {
   background-color: #292929;
-  height: 101.9vh;
+  height: 101.2vh;
   padding-top: 20.9%;
   padding-left: 2%;
   display: none;
@@ -635,6 +635,15 @@ a:hover {
 
 .downer {
   margin-bottom: 5%;
+}
+
+@media only screen and (max-width: 320px) {
+    #profpic {
+      margin-left: ;
+    }
+    .black {
+      margin-left: 50%;
+    }
 }
 
 
