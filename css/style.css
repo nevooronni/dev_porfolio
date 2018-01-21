@@ -24,7 +24,7 @@
 #description {
   padding-top: 20%;
   background-color: #292929;
-  height: 100vh;
+  height: 810px;
   font-family: 'Montserrat', sans-serif;
   border-right-style: solid;
   border-right-color: #ff2238;
@@ -126,7 +126,7 @@
   background-image: url("../img/phonennew.jpg");
   background-repeat: none;
   background-size: cover;
-  height: 100vh;
+  height: 810px;
 }
 
 #fullstack {
@@ -143,6 +143,7 @@
   font-weight: bold;
   display: none;
   margin-left: -25px;
+  margin-right: 0px;
 }
 
 #fullstack2 {
@@ -226,7 +227,9 @@
 }
 
 #socialheight {
-  height: 100px;
+  height: ;
+  margin-top: 35%;
+  padding-left: 10%;
 }
 
 #main {
@@ -247,6 +250,10 @@
   border-radius: 50%;
   height: 150px;
   width: 150px;
+}
+
+.social {
+  padding-right: 4%;
 }
 
 .down {
@@ -504,8 +511,8 @@ a:hover {
   border-radius: ;
   display: inline-block;
   font-size: 18px;
-  padding-top: 6%;
-  padding-left: 8%;
+  padding-top: 5%;
+  padding-left: 6.5%;
   margin-left: 2%;
   border-radius: 50%;
 }
@@ -637,21 +644,3 @@ a:hover {
 .downer {
   margin-bottom: 5%;
 }
-
-@media only screen and (max-width: 320px) {
-    #profpic {
-      margin-left: ;
-    }
-    .black {
-      margin-left: 50%;
-    }
-}
-
-@media only screen and (max-width: 768px) {
-  #sidebar {
-    display: block;
-  }
-}
-
-
-
