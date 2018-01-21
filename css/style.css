@@ -71,7 +71,7 @@
   background-image: url("../img/contact.jpeg");
   background-repeat: none;
   background-size: cover;
-  height: 100vh;
+  height: 810px;
   font-family: 'Montserrat', sans-serif;
   border-right-style: solid;
   border-right-color: #ff2238;
@@ -192,7 +192,7 @@
   margin-top: 170px;
   margin-bottom: 0px;
   padding-bottom: 0px;
-  background-color: #292929;  
+  background-color: transparent;  
 }
 
 #iconsocial {
