@@ -142,6 +142,7 @@
   font-family: 'Montserrat', sans-serif;
   font-weight: bold;
   display: none;
+  margin-left: -25px;
 }
 
 #fullstack2 {
@@ -303,7 +304,7 @@ a:hover {
 }
 
 .font {
-  font-size: 22px;
+  font-size: 28px;
   color:  #121212;
   font-family: 'Inconsolata', serif;
 }
