@@ -35,7 +35,7 @@
 #devdev {
   padding-top: 20%;
   background-color: #292929;
-  height: 100vh;
+  height: 810px;
   font-family: 'Montserrat', sans-serif;
   display: none;
 }
@@ -57,7 +57,7 @@
   background-image: url("../img/white3.jpg");
   background-repeat: none;
   background-size: cover;
-  height: 100vh;
+  height: 810px;
   font-family: 'Montserrat', sans-serif;
   border-right-style: solid;
   border-right-color: #ff2238;
