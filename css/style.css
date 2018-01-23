@@ -168,9 +168,9 @@
 }
 
 
-#fullstack:hover {
+/*#fullstack:hover {
   background-color: #fff;
-}
+}*/
 
 #copyright {
   float: right;
@@ -298,14 +298,14 @@ a:hover {
 }
 
 .languages {
-  color: #fff;
+  color:  #fff;
   margin-left: 0px;
   display: none;
 }
 
-.languages:hover {
+/*.languages:hover {
   color: #ff2238;
-}
+}*/
 
 .fa-github {
   font-size: 28px;
