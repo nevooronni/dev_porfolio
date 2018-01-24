@@ -92,6 +92,7 @@
 #items1 {
   padding-top: 0px;
   padding-right: 3%;
+  padding-left: 3%;
 }
 
 #items2 {
@@ -139,11 +140,13 @@
   border-width: 4px;
   font-size: 23px;
   height: 80px;
-  padding: 15px;
+  width: 320px;
+  padding-top: 18px;
+  padding-left: 12px;
   font-family: 'Montserrat', sans-serif;
   font-weight: bold;
   display: none;
-  margin-left: -25spx;
+  margin-left: -25px;
   margin-right: 0px;
 }
 
@@ -157,7 +160,7 @@
   font-size: 23px;
   height: 80px;
   width: 200px;
-  padding: 15px;
+  padding: 10px;
   font-family: 'Montserrat', sans-serif;
   font-weight: bold;
   display: none;  
@@ -165,6 +168,7 @@
 
 #fullstack2:hover {
   background-color: #fff;
+  cursor: none;
 }
 
 
@@ -548,6 +552,10 @@ a:hover {
   
 }
 
+#gmail {
+  color: #fff;
+}
+
 .socialmedia {
   margin-top: 60%;
   width: 300px;
@@ -567,7 +575,17 @@ a:hover {
   color: #121212;  
 }
 
+.fa-github {
+  font-size: 18px;
+  color: #fff;
+}
+
 .fa-google {
+  font-size: 18px;
+  color: #fff;  
+}
+
+.glyphicon-envelope {
   font-size: 18px;
   color: #fff;  
 }
