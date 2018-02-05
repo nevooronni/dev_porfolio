@@ -140,9 +140,10 @@
   border-width: 4px;
   font-size: 23px;
   height: 80px;
-  width: 320px;
+  width: 330px;
   padding-top: 18px;
-  padding-left: 12px;
+  padding-left: 5px;
+  padding-right: 0px;
   font-family: 'Montserrat', sans-serif;
   font-weight: bold;
   display: none;
