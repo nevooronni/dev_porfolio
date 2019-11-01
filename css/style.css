@@ -1826,7 +1826,7 @@ a:hover {
   #iconsocial {
     height: 100vh;
   }
-  
+
   #description2 {
     height: 100vh;
   }
@@ -1884,6 +1884,14 @@ a:hover {
 }
 
 @media only screen and (min-width: 1900px) {
+  #iconsocial {
+    background-color: #292929;
+    height: 1219.2px;
+    padding-top: 15.9%;
+    padding-left: 2%;
+    display: none;
+  }
+
   #sidebar {
     padding-top: 16%;
     height: 100vh;  
