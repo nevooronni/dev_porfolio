@@ -745,32 +745,666 @@ a:hover {
   }
 
   #devstack {
-    height: 379px;
+    height: 400px;
   }  
+
+  #description {
+    height: 381px;
+  }
 }
 
 @media (min-width: 341px) and (max-width: 360px) {
+  #socialheight {
+    margin-top: 5%;
+    padding-left: 18%;
+    margin-left: -3%;
+  }
+
+  .social {
+    padding-top: 6%;
+    padding-left: 7.5%;
+  }
+
+  #fullstack {
+    background-color: #E6E6E6;
+    color: #121212;
+    border-color: #121212;
+    border-style: solid;
+    border-radius: 11px;
+    border-width: 0px;
+    font-size: 17px;
+    height: 68px;
+    width: 239px;
+    padding-top: 25px;
+    padding-left: 12px;
+    padding-right: 0px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    display: none;
+    margin-left: 28px;
+    margin-right: 0px;
+    box-shadow: 0 25px 17px 0 #888888;
+  }
+
+  .black {
+    margin-left: 38%;
+  }
+
+  #div-sidebar {
+    height: 29px;
+  }
+
+  #sidebar {
+    padding-top: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
+    display: none;
+    padding-bottom: 12%;
+  }
+
+  #profpic {
+    margin-left: 33%;
+    border-radius: 50%;
+    height: 130px;
+    width: 130px;
+  }
+
+  #backend {
+    font-size: 17px;
+  }
+
+  #nevilleo {
+    font-size: 18px;
+    margin-left: 7%;
+  }
+
+  #welcome {
+    font-size: 18px;
+    margin-left: 6%;
+  }
+
+  .glyphicon-phone {
+    margin-left: 41%;
+  }
+
+  #i2 {
+    font-size: 15px;
+    margin-left: 7%;
+  }
+
+  #devstack {
+    height: 400px;
+  }  
+
+  #description {
+    height: 381px;
+  }
 }
 
 @media (min-width: 361px) and (max-width: 374px) {
+  #socialheight {
+    margin-top: 5%;
+    padding-left: 18%;
+    margin-left: -4%;
+  }
+
+  .social {
+    padding-top: 6%;
+    padding-left: 7.5%;
+  }
+
+  #fullstack {
+    background-color: #E6E6E6;
+    color: #121212;
+    border-color: #121212;
+    border-style: solid;
+    border-radius: 11px;
+    border-width: 0px;
+    font-size: 17px;
+    height: 68px;
+    width: 239px;
+    padding-top: 25px;
+    padding-left: 12px;
+    padding-right: 0px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    display: none;
+    margin-left: 29px;
+    margin-right: 0px;
+    box-shadow: 0 25px 17px 0 #888888;
+  }
+
+  .black {
+    margin-left: 38%;
+  }
+
+  #div-sidebar {
+    height: 29px;
+  }
+
+  #sidebar {
+    padding-top: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
+    display: none;
+    padding-bottom: 12%;
+  }
+
+  #profpic {
+    margin-left: 33%;
+    border-radius: 50%;
+    height: 130px;
+    width: 130px;
+  }
+
+  #backend {
+    font-size: 17px;
+  }
+
+  #nevilleo {
+    font-size: 18px;
+    margin-left: 7%;
+  }
+
+  #welcome {
+    font-size: 18px;
+    margin-left: 6%;
+  }
+
+  .glyphicon-phone {
+    margin-left: 41%;
+  }
+
+  #i2 {
+    font-size: 15px;
+    margin-left: 7%;
+  }
+
+  #devstack {
+    height: 400px;
+  }  
+
+  #description {
+    height: 381px;
+  }
 }
 
 @media (min-width: 375px) and (max-width: 424px) {
+  #socialheight {
+    margin-top: 5%;
+    padding-left: 18%;
+    margin-left: -3%;
+  }
+
+  .social {
+    padding-top: 5%;
+    padding-left: 6.5%;
+  }
+
+  #fullstack {
+    background-color: #E6E6E6;
+    color: #121212;
+    border-color: #121212;
+    border-style: solid;
+    border-radius: 11px;
+    border-width: 0px;
+    font-size: 17px;
+    height: 68px;
+    width: 270px;
+    padding-top: 25px;
+    padding-left: 29px;
+    padding-right: 0px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    display: none;
+    margin-left: 15px;
+    margin-right: 0px;
+    box-shadow: 0 25px 17px 0 #888888;
+  }
+
+  .black {
+    margin-left: 38%;
+  }
+
+  #div-sidebar {
+    height: 29px;
+  }
+
+  #sidebar {
+    padding-top: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
+    display: none;
+    padding-bottom: 12%;
+  }
+
+  #profpic {
+    margin-left: 33%;
+    border-radius: 50%;
+    height: 130px;
+    width: 130px;
+  }
+
+  #backend {
+    font-size: 17px;
+  }
+
+  #nevilleo {
+    font-size: 18px;
+    margin-left: 7%;
+  }
+
+  #welcome {
+    font-size: 18px;
+    margin-left: 6%;
+  }
+
+  .glyphicon-phone {
+    margin-left: 41%;
+  }
+
+  #i2 {
+    font-size: 15px;
+    margin-left: 7%;
+  }
+
+  #devstack {
+    height: 400px;
+  }  
+
+  #description {
+    height: 381px;
+  }
 }
 
 @media (min-width: 410px) and (max-width: 415px) {
+  #socialheight {
+    margin-top: 5%;
+    padding-left: 18%;
+    margin-left: -2%;
+  }
+
+  .social {
+    padding-top: 5%;
+    padding-left: 6.5%;
+  }
+
+  #fullstack {
+    background-color: #E6E6E6;
+    color: #121212;
+    border-color: #121212;
+    border-style: solid;
+    border-radius: 11px;
+    border-width: 0px;
+    font-size: 17px;
+    height: 68px;
+    width: 270px;
+    padding-top: 25px;
+    padding-left: 29px;
+    padding-right: 0px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    display: none;
+    margin-left: 32px;
+    margin-right: 0px;
+    box-shadow: 0 25px 17px 0 #888888;
+  }
+
+  .black {
+    margin-left: 38%;
+  }
+
+  #div-sidebar {
+    height: 29px;
+  }
+
+  #sidebar {
+    padding-top: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
+    display: none;
+    padding-bottom: 12%;
+  }
+
+  #profpic {
+    margin-left: 33%;
+    border-radius: 50%;
+    height: 130px;
+    width: 130px;
+  }
+
+  #backend {
+    font-size: 17px;
+  }
+
+  #nevilleo {
+    font-size: 18px;
+    margin-left: 7%;
+  }
+
+  #welcome {
+    font-size: 18px;
+    margin-left: 6%;
+  }
+
+  .glyphicon-phone {
+    margin-left: 41%;
+  }
+
+  #i2 {
+    font-size: 15px;
+    margin-left: 7%;
+  }
+
+  #devstack {
+    height: 400px;
+  }  
+
+  #description {
+    height: 381px;
+  }
 }
 
-@media (min-width: 425px) and (max-width: 468px) {
+@media (min-width: 425px) and (max-width: 480px) {
+  #socialheight {
+    margin-top: 5%;
+    padding-left: 18%;
+    margin-left: -1%;
+  }
+
+  .social {
+    padding-top: 5%;
+    padding-left: 6.5%;
+  }
+
+  #fullstack {
+    background-color: #E6E6E6;
+    color: #121212;
+    border-color: #121212;
+    border-style: solid;
+    border-radius: 11px;
+    border-width: 0px;
+    font-size: 17px;
+    height: 68px;
+    width: 270px;
+    padding-top: 25px;
+    padding-left: 29px;
+    padding-right: 0px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    display: none;
+    margin-left: 32px;
+    margin-right: 0px;
+    box-shadow: 0 25px 17px 0 #888888;
+  }
+
+  .black {
+    margin-left: 38%;
+  }
+
+  #div-sidebar {
+    height: 29px;
+  }
+
+  #sidebar {
+    padding-top: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
+    display: none;
+    padding-bottom: 12%;
+  }
+
+  #profpic {
+    margin-left: 33%;
+    border-radius: 50%;
+    height: 130px;
+    width: 130px;
+  }
+
+  #backend {
+    font-size: 17px;
+  }
+
+  #nevilleo {
+    font-size: 18px;
+    margin-left: 7%;
+  }
+
+  #welcome {
+    font-size: 18px;
+    margin-left: 6%;
+  }
+
+  .glyphicon-phone {
+    margin-left: 41%;
+  }
+
+  #i2 {
+    font-size: 15px;
+    margin-left: 7%;
+  }
+
+  #devstack {
+    height: 400px;
+  }  
+
+  #description {
+    height: 381px;
+  }
 }
 
-@media (min-width: 469px) and (max-width: 766px) {
+@media (min-width: 481px) and (max-width: 766px) {
+  #socialheight {
+    margin-top: 5%;
+    padding-left: 18%;
+    margin-left: 7%;
+  }
+
+  .social {
+    padding-top: 3%;
+    padding-left: 4%;
+  }
+
+  #fullstack {
+    background-color: #E6E6E6;
+    color: #121212;
+    border-color: #121212;
+    border-style: solid;
+    border-radius: 11px;
+    border-width: 0px;
+    font-size: 17px;
+    height: 68px;
+    width: 270px;
+    padding-top: 25px;
+    padding-left: 29px;
+    padding-right: 0px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    display: none;
+    margin-left: 132px;
+    margin-right: 0px;
+    box-shadow: 0 25px 17px 0 #888888;
+  }
+
+  .black {
+    margin-left: 38%;
+  }
+
+  #div-sidebar {
+    height: 29px;
+  }
+
+  #sidebar {
+    padding-top: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
+    display: none;
+    padding-bottom: 12%;
+  }
+
+  #profpic {
+    margin-left: 37%;
+    border-radius: 50%;
+    height: 130px;
+    width: 130px;
+  }
+
+  #backend {
+    font-size: 17px;
+  }
+
+  #nevilleo {
+    font-size: 18px;
+    margin-left: -6%;
+  }
+
+  #welcome {
+    font-size: 18px;
+    margin-left: -6%;
+  }
+
+  .glyphicon-phone {
+    margin-left: 41%;
+  }
+
+  .glyphicon-tasks {
+    margin-left: 41%;
+  }
+
+  #i2 {
+    font-size: 15px;
+    margin-left: -6%;
+  }
+
+  #devstack {
+    height: 400px;
+    padding-top: 10%;
+  }  
+
+  #description {
+    height: 381px;
+    padding-top: 8%;
+  }
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
+  #socialheight {
+    margin-top: 5%;
+    padding-left: 18%;
+    margin-left: 9%;
+  }
+
+  .social {
+    padding-top: 3%;
+    padding-left: 4%;
+  }
+
+  #fullstack {
+    background-color: #E6E6E6;
+    color: #121212;
+    border-color: #121212;
+    border-style: solid;
+    border-radius: 11px;
+    border-width: 0px;
+    font-size: 17px;
+    height: 68px;
+    width: 270px;
+    padding-top: 25px;
+    padding-left: 29px;
+    padding-right: 0px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    display: none;
+    margin-left: 149px;
+    margin-right: 0px;
+    box-shadow: 0 25px 17px 0 #888888;
+  }
+
+  .black {
+    margin-left: 38%;
+  }
+
+  #div-sidebar {
+    height: 29px;
+  }
+
+  #sidebar {
+    padding-top: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
+    display: none;
+    padding-bottom: 12%;
+  }
+
+  #profpic {
+    margin-left: 37%;
+    border-radius: 50%;
+    height: 130px;
+    width: 130px;
+  }
+
+  #backend {
+    font-size: 17px;
+  }
+
+  #nevilleo {
+    font-size: 18px;
+    margin-left: -6%;
+  }
+
+  #welcome {
+    font-size: 18px;
+    margin-left: -6%;
+  }
+
+  .glyphicon-phone {
+    margin-left: 41%;
+  }
+
+  .glyphicon-tasks {
+    margin-left: 41%;
+  }
+
+  #i2 {
+    font-size: 15px;
+    margin-left: -6%;
+  }
+
+  #devstack {
+    height: 400px;
+    padding-top: 10%;
+  }  
+
+  #description {
+    height: 381px;
+    padding-top: 8%;
+  }
 }
 
 @media (min-width: 992px) and (max-width: 1200px) {
+  #fullstack {
+    margin-left: -20px;
+  }
+
+  #socialheight {
+    margin-top: 5%;
+    padding-left: 0%;
+    margin-left: -9%;
+    width: 106%;
+    margin-right: 0px;
+  }
+
+  #sidebar {
+    height: 100vh;  
+  }
+
+  #description {
+    height: 100vh;
+  }
+
+  #devstack {
+    height: 100vh;
+  }
 }
 
 @media (min-width: 1200px) and (max-width: 1270px) {
@@ -792,7 +1426,57 @@ a:hover {
 }
 
 @media only screen and (min-width: 1900px) {
+  #sidebar {
+    padding-top: 16%;
+    height: 100vh;  
+  }
+
+  #description {
+    padding-top: 16%;
+    height: 100vh;
+  }
+
+  #devstack {
+    padding-top: 13%;
+    height: 100vh;
+  }
+
+  #socialheight {
+    margin-top: 5%;
+    padding-left: 18%;
+    margin-left: -8%;
+  }
+
+  .social {
+    padding-top: 3%;
+    padding-left: 4%;
+  }
 }
 
 @media only screen and (min-width: 2560px) {
+  #sidebar {
+    padding-top: 16%;
+    height: 100vh;  
+  }
+
+  #description {
+    padding-top: 16%;
+    height: 100vh;
+  }
+
+  #devstack {
+    padding-top: 13%;
+    height: 100vh;
+  }
+
+  #socialheight {
+    margin-top: 5%;
+    padding-left: 18%;
+    margin-left: -8%;
+  }
+
+  .social {
+    padding-top: 3%;
+    padding-left: 4%;
+  }
 }
