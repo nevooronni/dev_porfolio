@@ -218,8 +218,8 @@
 }
 
 #iconsocial6 {
- background-color: #292929;
-  height: 1025px;
+  background-color: #292929;
+  height: 1219.2px;
   padding-top: 20.9%;
   padding-left: 2%;
   display: none;
@@ -666,6 +666,38 @@ a:hover {
 }
 
 @media only screen and (max-width: 340px) {
+  .details3 {
+    margin-top: 7%;
+  }
+  
+  #projectheading {
+    margin-top: 14%;
+    margin-left: 10%; 
+    margin-bottom: 0%;
+    color: #292929;
+    font-size: ; 
+  }
+  
+  .portfolioimg2 {
+    display: inline;
+    margin-top: 0%;
+    margin-left: 10%;
+    margin-right: 0%;
+    border-style: solid;
+    border-width: 11px;
+    border-color:  #ff2238;
+    height: 263px;
+    width: 630px;
+  }
+  
+  #iconsocial6 {
+    background-color: #292929;
+    height: 145.2px;
+    padding-top: 14.9%;
+    padding-left: 0%;
+    display: none;
+  }
+
   #doubledown {
     padding-left: 16%;
   }
@@ -809,6 +841,38 @@ a:hover {
 }
 
 @media (min-width: 341px) and (max-width: 360px) {
+  .details3 {
+    margin-top: 7%;
+  }
+  
+  #projectheading {
+    margin-top: 14%;
+    margin-left: 10%; 
+    margin-bottom: 0%;
+    color: #292929;
+    font-size: ; 
+  }
+  
+  .portfolioimg2 {
+    display: inline;
+    margin-top: 0%;
+    margin-left: 10%;
+    margin-right: 0%;
+    border-style: solid;
+    border-width: 11px;
+    border-color:  #ff2238;
+    height: 263px;
+    width: 630px;
+  }
+  
+  #iconsocial6 {
+    background-color: #292929;
+    height: 145.2px;
+    padding-top: 14.9%;
+    padding-left: 0%;
+    display: none;
+  }
+
   #doubledown {
     padding-left: 16%;
   }
@@ -953,6 +1017,38 @@ a:hover {
 }
 
 @media (min-width: 361px) and (max-width: 374px) {
+  .details3 {
+    margin-top: 7%;
+  }
+  
+  #projectheading {
+    margin-top: 14%;
+    margin-left: 10%; 
+    margin-bottom: 0%;
+    color: #292929;
+    font-size: ; 
+  }
+  
+  .portfolioimg2 {
+    display: inline;
+    margin-top: 0%;
+    margin-left: 10%;
+    margin-right: 0%;
+    border-style: solid;
+    border-width: 11px;
+    border-color:  #ff2238;
+    height: 263px;
+    width: 630px;
+  }
+  
+  #iconsocial6 {
+    background-color: #292929;
+    height: 145.2px;
+    padding-top: 14.9%;
+    padding-left: 2%;
+    display: none;
+  }
+
   #doubledown {
     padding-left: 16%;
   }
@@ -1096,6 +1192,38 @@ a:hover {
 }
 
 @media (min-width: 375px) and (max-width: 424px) {
+  .details3 {
+    margin-top: 7%;
+  }
+  
+  #projectheading {
+    margin-top: 14%;
+    margin-left: 10%; 
+    margin-bottom: 0%;
+    color: #292929;
+    font-size: ; 
+  }
+  
+  .portfolioimg2 {
+    display: inline;
+    margin-top: 0%;
+    margin-left: 10%;
+    margin-right: 0%;
+    border-style: solid;
+    border-width: 11px;
+    border-color:  #ff2238;
+    height: 263px;
+    width: 630px;
+  }
+  
+  #iconsocial6 {
+    background-color: #292929;
+    height: 145.2px;
+    padding-top: 14.9%;
+    padding-left: 0%;
+    display: none;
+  }
+
   #doubledown {
     padding-left: 16%;
   }
@@ -1382,6 +1510,39 @@ a:hover {
 }
 
 @media (min-width: 425px) and (max-width: 480px) {
+  .details3 {
+    margin-top: 7%;
+  }
+  
+  #projectheading {
+    margin-top: 14%;
+    margin-left: 10%; 
+    margin-bottom: 0%;
+    color: #292929;
+    font-size: ; 
+  }
+  
+  .portfolioimg2 {
+    display: inline;
+    margin-top: 0%;
+    margin-left: 10%;
+    margin-right: 0%;
+    border-style: solid;
+    border-width: 11px;
+    border-color:  #ff2238;
+    height: 263px;
+    width: 630px;
+  }
+  
+  #iconsocial6 {
+    background-color: #292929;
+    height: 145.2px;
+    padding-top: 13.9%;
+    padding-left: 0%;
+    display: none;
+    padding-right: 10%;
+  }
+
   #doubledown {
     padding-left: 22%;
   }
@@ -1525,6 +1686,19 @@ a:hover {
 }
 
 @media (min-width: 481px) and (max-width: 766px) {
+  #iconsocial6 {
+    background-color: #292929;
+    height: 247px;
+    padding-top: 11.9%;
+    padding-left: 0%;
+    display: none;
+    padding-right: 16%;
+  }
+
+  #projectheading {
+    margin-top: 7%;
+  }
+
   #doubledown {
     padding-left: 26%;
   }
@@ -1674,6 +1848,19 @@ a:hover {
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
+  #projectheading {
+    margin-top: 10%;
+  }
+
+  #iconsocial6 {
+    background-color: #292929;
+    height: 488px;
+    padding-top: 8.9%;
+    padding-left: 0%;
+    display: none;
+    padding-right: 14%;
+  }
+
   #doubledown {
     padding-left: 26%;
   }
@@ -1823,12 +2010,25 @@ a:hover {
 }
 
 @media (min-width: 992px) and (max-width: 1200px) {
+  #iconsocial6 {
+    height: 1025px;
+    padding-left: 1%;
+  }
+
+  #projectheading {
+    margin-top: 7%;
+  }
+
+  .portfolioimg2 {
+    width: 568px;
+  }
+
   #iconsocial {
     height: 100vh;
   }
 
   #description2 {
-    height: 100vh;
+    height: 1025px;
   }
 
   .portfolioimg {
@@ -1884,6 +2084,13 @@ a:hover {
 }
 
 @media only screen and (min-width: 1900px) {
+  #iconsocial6 {
+    background-color: #292929;
+    height: 1219.2px;
+    padding-top: 15.9%;
+    padding-left: 3%;
+  }
+  
   #iconsocial {
     background-color: #292929;
     height: 1219.2px;
@@ -1920,6 +2127,13 @@ a:hover {
 }
 
 @media only screen and (min-width: 2560px) {
+  #iconsocial6 {
+    background-color: #292929;
+    height: 1219.2px;
+    padding-top: 15.9%;
+    padding-left: 3%;
+  }
+
   #sidebar {
     padding-top: 16%;
     height: 100vh;  
