@@ -71,7 +71,7 @@
   background-image: url("../img/contact.jpeg");
   background-repeat: none;
   background-size: cover;
-  height: 810px;
+  height: 1200px;
   font-family: 'Montserrat', sans-serif;
   border-right-style: solid;
   border-right-color: #ff2238;
@@ -196,7 +196,7 @@
 }
 
 #portrow3 {
-  margin-top: 170px;
+  margin-top: 100px;
   margin-bottom: 0px;
   padding-bottom: 0px;
   background-color: transparent;  
@@ -655,7 +655,8 @@ a:hover {
 .white2 {
   color: #A9A9A9;
   display: none;
-   font-family: 'Inconsolata', serif;
+  font-family: 'Inconsolata', serif;
+  margin-left: 4%;
 }
 
 .white2:hover {
@@ -686,6 +687,7 @@ a:hover {
 
   .white2 {
     text-align: center;
+    margin-right: 10%;
   }
 
   #contmargin {
@@ -695,7 +697,7 @@ a:hover {
   .red2 {
     font-size: 15px;
     width: 75%;
-    margin-left: 13%;
+    margin-left: 12%;
   }
 
   .contactme {
@@ -934,6 +936,7 @@ a:hover {
 
   .white2 {
     text-align: center;
+    margin-right: 16%;
   }
 
   #contmargin {
@@ -943,7 +946,7 @@ a:hover {
   .red2 {
     font-size: 15px;
     width: 75%;
-    margin-left: 13%;
+    margin-left: 10%;
   }
 
   .contactme {
@@ -1183,6 +1186,7 @@ a:hover {
 
   .white2 {
     text-align: center;
+    margin-right: 17%;
   }
 
   #contmargin {
@@ -1191,6 +1195,7 @@ a:hover {
 
   .red2 {
     font-size: 15px;
+    margin-left: 0%;
   }
 
   .contactme {
@@ -1429,6 +1434,7 @@ a:hover {
 
   .white2 {
     text-align: center;
+    margin-right: 19%;
   }
 
   #contmargin {
@@ -1438,7 +1444,7 @@ a:hover {
   .red2 {
     font-size: 15px;
     width: 65%;
-    margin-left: 16%;
+    margin-left: 12%;
   }
 
   .contactme {
@@ -1901,6 +1907,7 @@ a:hover {
 
   .white2 {
     text-align: center;
+    margin-right: 12%;
   }
 
   #contmargin {
@@ -1910,7 +1917,7 @@ a:hover {
   .red2 {
     font-size: 15px;
     width: 65%;
-    margin-left: 19%;
+    margin-left: 18%;
   }
 
   .contactme {
@@ -2159,6 +2166,7 @@ a:hover {
 
   .white2 {
     text-align: center;
+    margin-right: 19%;
   }
 
   #contmargin {
@@ -2395,13 +2403,18 @@ a:hover {
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
+  #description4 {
+    height: auto;
+    padding-bottom: 10%;
+  }
+
   .white2 {
     margin-right: 16%;
     text-align: center;
   }
 
   .red2 {
-    margin-left: 15%;
+    margin-left: 16%;
   }
 
   .contactme {
