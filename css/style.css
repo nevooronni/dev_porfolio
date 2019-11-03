@@ -679,6 +679,35 @@ a:hover {
 }
 
 @media only screen and (max-width: 340px) {
+  #description4 {
+    height: auto;
+    padding-bottom: 15%;
+  }
+
+  .white2 {
+    text-align: center;
+  }
+
+  #contmargin {
+    margin-bottom: 38px;
+  }
+
+  .red2 {
+    font-size: 15px;
+    width: 75%;
+    margin-left: 13%;
+  }
+
+  .contactme {
+    width: 170px;
+    font-size: 23px;
+    margin-left: 18%;
+  }
+
+  #portrow3 {
+    margin-top: 50px;
+  }
+
   #javascript {
     border-radius: 50%;
     margin-left: 32%;
@@ -898,6 +927,35 @@ a:hover {
 }
 
 @media (min-width: 341px) and (max-width: 360px) {
+  #description4 {
+    height: auto;
+    padding-bottom: 15%;
+  }
+
+  .white2 {
+    text-align: center;
+  }
+
+  #contmargin {
+    margin-bottom: 38px;
+  }
+
+  .red2 {
+    font-size: 15px;
+    width: 75%;
+    margin-left: 13%;
+  }
+
+  .contactme {
+    width: 170px;
+    font-size: 23px;
+    margin-left: 18%;
+  }
+
+  #portrow3 {
+    margin-top: 50px;
+  }
+
   #javascript {
     border-radius: 50%;
     margin-left: 34%;
@@ -1118,6 +1176,33 @@ a:hover {
 }
 
 @media (min-width: 361px) and (max-width: 374px) {
+  #description4 {
+    height: auto;
+    padding-bottom: 15%;
+  }
+
+  .white2 {
+    text-align: center;
+  }
+
+  #contmargin {
+    margin-bottom: 38px;
+  }
+
+  .red2 {
+    font-size: 15px;
+  }
+
+  .contactme {
+    width: 170px;
+    font-size: 23px;
+    margin-left: 18%;
+  }
+
+  #portrow3 {
+    margin-top: 50px;
+  }
+
   #javascript {
     border-radius: 50%;
     margin-left: 34%;
@@ -1337,6 +1422,35 @@ a:hover {
 }
 
 @media (min-width: 375px) and (max-width: 424px) {
+  #description4 {
+    height: auto;
+    padding-bottom: 15%;
+  }
+
+  .white2 {
+    text-align: center;
+  }
+
+  #contmargin {
+    margin-bottom: 38px;
+  }
+
+  .red2 {
+    font-size: 15px;
+    width: 65%;
+    margin-left: 16%;
+  }
+
+  .contactme {
+    width: 170px;
+    font-size: 23px;
+    margin-left: 18%;
+  }
+
+  #portrow3 {
+    margin-top: 50px;
+  }
+
   #fullstack2 {
     margin-left: 5%;
   }
@@ -1560,6 +1674,35 @@ a:hover {
 }
 
 @media (min-width: 410px) and (max-width: 415px) {
+  #description4 {
+    height: auto;
+    padding-bottom: 15%;
+  }
+
+  .white2 {
+    text-align: center;
+  }
+
+  #contmargin {
+    margin-bottom: 38px;
+  }
+
+  .red2 {
+    font-size: 15px;
+    width: 89%;
+    margin-left: 8%;
+  }
+
+  .contactme {
+    width: 170px;
+    font-size: 23px;
+    margin-left: 21%;
+  }
+
+  #portrow3 {
+    margin-top: 50px;
+  }
+
   #fullstack2 {
     margin-left: 7%;
   }
@@ -1751,6 +1894,35 @@ a:hover {
 }
 
 @media (min-width: 425px) and (max-width: 480px) {
+  #description4 {
+    height: auto;
+    padding-bottom: 15%;
+  }
+
+  .white2 {
+    text-align: center;
+  }
+
+  #contmargin {
+    margin-bottom: 38px;
+  }
+
+  .red2 {
+    font-size: 15px;
+    width: 65%;
+    margin-left: 19%;
+  }
+
+  .contactme {
+    width: 170px;
+    font-size: 23px;
+    margin-left: 24%;
+  }
+
+  #portrow3 {
+    margin-top: 50px;
+  }
+
   #description3 {
     padding-top: 0%;
     height: auto;
@@ -1980,6 +2152,35 @@ a:hover {
 }
 
 @media (min-width: 481px) and (max-width: 766px) {
+  #description4 {
+    height: auto;
+    padding-bottom: 15%;
+  }
+
+  .white2 {
+    text-align: center;
+  }
+
+  #contmargin {
+    margin-bottom: 38px;
+  }
+
+  .red2 {
+    font-size: 15px;
+    width: 100%;
+    margin-left: 23%;
+  }
+
+  .contactme {
+    width: 254px;
+    font-size: 26px;
+    margin-left: 24%;
+  }
+
+  #portrow3 {
+    margin-top: 57px;
+  }
+
   .languages {
     margin-left: -52px;
   }
@@ -2194,6 +2395,23 @@ a:hover {
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
+  .white2 {
+    margin-right: 16%;
+    text-align: center;
+  }
+
+  .red2 {
+    margin-left: 15%;
+  }
+
+  .contactme {
+    margin-left: 25%;
+  }
+
+  #portrow3 {
+    margin-top: 82px;
+  }
+
   .languages {
     margin-left: -76px;
   }
