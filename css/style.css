@@ -43,7 +43,7 @@
 #description2 {
   padding-top: 0px;
   background-color: #f1f1f1;
-  height: 1219.2px;
+  height: 1500.2px;
   font-family: 'Montserrat', sans-serif;
   border-right-style: solid;
   border-right-color: #ff2238;
@@ -204,7 +204,7 @@
 
 #iconsocial {
   background-color: #292929;
-  height: 1219.2px;
+  height: 1500.2px;
   padding-top: 20.9%;
   padding-left: 2%;
   display: none;
@@ -220,7 +220,7 @@
 
 #iconsocial6 {
   background-color: #292929;
-  height: 1219.2px;
+  height: 1500.2px;
   padding-top: 20.9%;
   padding-left: 2%;
   display: none;
@@ -396,7 +396,7 @@ a:hover {
   position: absolute;
   top: -101px;
   bottom: 0;
-  left: -15px;
+  left: -9px;
   right: 0;
   height: 220px;
   width: 413px;
@@ -424,9 +424,10 @@ a:hover {
   border-right-color: #fff;
   border-left-style: solid;
   border-left-width: 30px;
-  border-left-color:#fff;
+  border-left-color: #fff;
   height: 220px;
   width: 430px;
+  box-shadow: 0 25px 17px 0 #888888;
 }
 
 .portfolioimg2 {
@@ -483,8 +484,7 @@ a:hover {
 .details3 {
   margin-top: 0%;
   margin-left: 10%;
-  width: 150px;
-  height: ;
+  width: auto;
   color: #ff2238;
   background-color: #fff;
   border-style: solid;
@@ -2722,6 +2722,14 @@ a:hover {
   #devstack {
     height: 100vh;
   }
+
+  #devdev {
+    height: 1366px;
+  }
+
+  #description3 {
+    height: 1366px;  
+  }
 }
 
 @media (min-width: 1200px) and (max-width: 1270px) {
@@ -2765,6 +2773,7 @@ a:hover {
 
   #devdev {
     padding-top: 16%;
+    height: 100vh;
   }
 
   #iconsocial6 {
@@ -2807,9 +2816,17 @@ a:hover {
     padding-top: 3%;
     padding-left: 4%;
   }
+
+  #description3 {
+    height: 100vh
+  }
 }
 
 @media only screen and (min-width: 2560px) {
+  #description3 {
+    height: 100vh
+  }
+
   #iconsocial2 {
     padding-top: 16.9%;
   }
@@ -2832,11 +2849,12 @@ a:hover {
 
   #devdev {
     padding-top: 16%;
+    height: 100vh;
   }
 
   #iconsocial6 {
     background-color: #292929;
-    height: 1219.2px;
+    height: 1500.2px;
     padding-top: 15.9%;
     padding-left: 3%;
   }
