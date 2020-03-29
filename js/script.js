@@ -22,4 +22,5 @@ $(document).ready(function() {
 	$("#fullstack").animate({backgroundColor: '#fff'}, 'slow');
 	$("#fullstack2").fadeIn(2000);
 	$("#fullstack2").animate({backgroundColor: '#fff'}, 'slow');
+	$("#portrow").fadeIn(2200);
 });
