@@ -24,7 +24,7 @@
 #description {
   padding-top: 20%;
   background-color: #292929;
-  height: 810px;
+  height: 100vh;
   font-family: 'Montserrat', sans-serif;
   border-right-style: solid;
   border-right-color: #ff2238;
@@ -35,7 +35,7 @@
 #devdev {
   padding-top: 20%;
   background-color: #292929;
-  height: 810px;
+  height: 100vh;
   font-family: 'Montserrat', sans-serif;
   display: none;
 }
@@ -57,7 +57,7 @@
   background-image: url("../img/white3.jpg");
   background-repeat: none;
   background-size: cover;
-  height: 810px;
+  height: 100vh;
   font-family: 'Montserrat', sans-serif;
   border-right-style: solid;
   border-right-color: #ff2238;
@@ -129,7 +129,7 @@
   background-image: url("../img/phonennew.jpg");
   background-repeat: none;
   background-size: cover;
-  height: 810px;
+  height: 100vh;
 }
 
 #fullstack {
